@@ -4,11 +4,11 @@ import imageone from '../assets/images/users/img-1.jpg'
 // import logo from '../assets/Userimages/shopifyimage.png'
 import Footer from './Footer/Footer'
 import isibisilogo from '../assets/Userimages/isibisi-removebg-preview.png'
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
-import Accordion from "@material-ui/core/Accordion";
-import AccordionDetails from "@material-ui/core/AccordionDetails";
-import Typography from "@material-ui/core/Typography";
-import AccordionSummary from "@material-ui/core/AccordionSummary";
+// import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
+// import Accordion from "@material-ui/core/Accordion";
+// import AccordionDetails from "@material-ui/core/AccordionDetails";
+// import Typography from "@material-ui/core/Typography";
+// import AccordionSummary from "@material-ui/core/AccordionSummary";
 import home from '../assets/Userimages/home.png'
 // import shopifyimaaage from '../assets/Userimages/Is-it-worth-it-to-hire-a-Shopify-expert.jpg'
 // import shopifyimage from '../assets/Userimages/Mask group.png'
